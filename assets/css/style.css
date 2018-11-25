@@ -1,0 +1,22 @@
+
+#title{
+    text-align: center;
+    background-image: url("../images/blur-commuter-departure-253647.jpg");
+    margin: 28px;
+}
+
+#curr_time{
+    text-align: left;
+    background-color: blue;
+    max-width: 1300px;
+}
+
+#newTrain{
+    text-align: left;
+    background-color: blue;
+    max-width: 1300px;
+}
+
+#sh{
+    border-bottom: 10px;
+}
